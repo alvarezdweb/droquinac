@@ -1,9 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import Button from '@material-ui/core/Button';
 
 function App() {
   return (
-    <h1>Droquinac</h1>
+    <Button variant="contained" color="primary">
+      Droquinac
+    </Button>
   );
 }
 
