@@ -12,6 +12,7 @@
 /build
 
 # misc
+.droquinac-abfa5ebf0793.json
 .env
 .DS_Store
 .env.local
